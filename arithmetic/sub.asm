@@ -1,4 +1,3 @@
-
 DATA SEGMENT
     A       DB 0A7H        ; Define byte A with value 0xA7 (decimal 167)
     B       DB 9AH         ; Define byte B with value 0x9A (decimal 154)
